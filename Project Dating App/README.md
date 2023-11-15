@@ -1,15 +1,5 @@
 # Project Dating App
 
-Project from the Data Analyst course by Karpov.Courses.
-- Exploratory Data Analysis
-- A/B Testing Result Analysis
-- Selecting metrics
-- Hypothesis testing
-- Calculating statistical significance
-- Welch's t-test, Chi-squared test
-
-  ---
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -20,3 +10,26 @@ Project from the Data Analyst course by Karpov.Courses.
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" title="SciPy" alt="SciPy" width="40" height="40"/>
   
 </div>
+<p align="right"><i>Project from the Data Analyst course by Karpov.Courses</i></p>
+
+- Exploratory Data Analysis
+- A/B Testing Result Analysis
+- Selecting metrics
+- Hypothesis testing
+- Calculating statistical significance
+- Welch's t-test, Chi-squared test
+
+### Info:
+The team has developed a new algorithm for finding the most suitable profiles. An AB test was conducted to verify the algorithm's operation. All users were divided into two groups: with an old algorithm application for searching profiles and with a new one.
+
+### Goal:
+Analytical conclusion whether to include a new algorithm for searching profiles for all users.
+
+### Tasks:
+Select service quality metrics and statistically compare them in two groups.  
+Assess whether the new algorithm has improved the quality of service.
+
+
+
+
+
