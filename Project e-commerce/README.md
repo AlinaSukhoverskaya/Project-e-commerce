@@ -1,10 +1,11 @@
 # Project-e-commerce
-Проект с курса "Аналитик данных", Karpov.Courses.
-- Подготовка данных для анализа: выгрузка, очистка, преобразование
-- Исследование данных на наличие аномалий
-- Анализ продаж
-- Когортный анализ
-- RFM-анализ
+
+Project from the Data Analyst course by Karpov.Courses.
+- Preparing data for analysis: uploading, cleaning, converting
+- Anomaly detection
+- Sales analysis
+- Cohort analysis
+- RFM analysis
 
   ---
 
