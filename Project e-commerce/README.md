@@ -1,7 +1,7 @@
 # Project-e-commerce
 
 Project from the Data Analyst course by Karpov.Courses.
-- Preparing data for analysis: uploading, cleaning, converting
+- Exploratory Data Analysis
 - Anomaly detection
 - Sales analysis
 - Cohort analysis
