@@ -5,7 +5,7 @@ Project from the Data Analyst course by Karpov.Courses.
 - Anomaly detection
 - Sales analysis
 - Cohort analysis
-- RFM analysis
+- RFM analysis for Customer Segmentation
 
   ---
 
