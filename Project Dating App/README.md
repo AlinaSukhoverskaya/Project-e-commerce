@@ -22,12 +22,14 @@
 ### Info:
 The team has developed a new algorithm for finding the most suitable profiles. An AB test was conducted to verify the algorithm's operation. All users were divided into two groups: with an old algorithm application for searching profiles and with a new one.
 
+### Data:
+Logs of user interaction with each other. For each pair of users, it is indicated which AB test group they are from and whether they had a match.
+
 ### Goal:
 Analytical conclusion whether to include a new algorithm for searching profiles for all users.
 
 ### Tasks:
-Select service quality metrics and statistically compare them in two groups.  
-Assess whether the new algorithm has improved the quality of service.
+Select service quality metrics and statistically compare them in two groups.
 
 
 
