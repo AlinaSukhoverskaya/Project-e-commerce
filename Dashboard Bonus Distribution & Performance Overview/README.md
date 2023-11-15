@@ -37,3 +37,9 @@ Implement the effective distribution of bonuses among employees to forecast the 
 - bonus distribution
 - downloading Excel file
 
+<p></p>
+
+<div><image src="/Dashboard Bonus Distribution & Performance Overview/Bonus Distribution & Performance Overview Dashboard 1.png" alt="Dashboard Bonus Distribution & Performance Overview"/></div>
+<div><image src="/Dashboard Bonus Distribution & Performance Overview/Bonus Distribution & Performance Overview Dashboard 2.png" alt="Dashboard Bonus Distribution & Performance Overview"/></div>
+
+
