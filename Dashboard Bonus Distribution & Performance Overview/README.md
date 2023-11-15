@@ -2,6 +2,15 @@
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/ru/0/06/Tableau_logo.svg"/>
 </div>
+<p></p>
+
+-	Bar Chart
+-	100% Stacked Bar Chart
+-	Lollipop Chart
+-	Gantt Chart
+-	Dot Plot
+-	KPI
+-	Table
 
 ### Data: 
 Employees data in the company, information about their work position, socio-demographic and professional characteristics.
