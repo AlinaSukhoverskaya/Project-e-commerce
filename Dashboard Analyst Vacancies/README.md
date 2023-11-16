@@ -32,4 +32,4 @@ Provide information about:
 
 ### Dashboard
 
-<div><image src="Dashboard Analyst Vacancies/Analyst Vacancies Dashboard.png" alt="Analyst Vacancies Dashboard"/></div>
+<div><image src="/Dashboard Analyst Vacancies/Analyst Vacancies Dashboard.png" alt="Analyst Vacancies Dashboard"/></div>
