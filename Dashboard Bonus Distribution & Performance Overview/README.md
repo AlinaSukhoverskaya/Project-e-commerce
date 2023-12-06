@@ -39,8 +39,8 @@ Implement the effective distribution of bonuses among employees to forecast the 
 
 <p></p>
 
+<a href="https://public.tableau.com/app/profile/alina.sukhoverskaya/viz/BonusDistribution_16870803200150/Dashboard1">Link to dashboard</a>
 ### Dashboard for the supervisor
-
 <div><image src="/Dashboard Bonus Distribution & Performance Overview/Bonus Distribution & Performance Overview Dashboard 1.png" alt="Dashboard Bonus Distribution & Performance Overview"/></div>
 
 ### Dashboard for managers
