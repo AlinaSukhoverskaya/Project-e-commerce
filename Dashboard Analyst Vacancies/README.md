@@ -31,5 +31,6 @@ Provide information about:
 <p></p>
 
 ### Dashboard
+<a href="https://public.tableau.com/app/profile/alina.sukhoverskaya/viz/Jobmarketanalysis/Dashboard1">Link to dashboard</a>
 
 <div><image src="/Dashboard Analyst Vacancies/Analyst Vacancies Dashboard.png" alt="Analyst Vacancies Dashboard"/></div>
