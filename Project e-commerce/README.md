@@ -11,6 +11,7 @@
 
 <p align="right"><i>Project from the Data Analyst course by Karpov.Courses</i></p>
 
+- Pre-analysis
 - Exploratory Data Analysis
 - Anomaly detection
 - Sales analysis
