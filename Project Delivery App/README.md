@@ -12,13 +12,6 @@
 
 <p align="right"><i>Project from the Data Analyst course by Karpov.Courses</i></p>
 
-- Exploratory Data Analysis
-- A/B Testing Result Analysis
-- Selecting metrics
-- Hypothesis testing
-- Calculating statistical significance
-- Student's t-test, Welch's t-test, Chi-squared test
-
 ### Info:
 The team has introduced a smart product recommendation system into the application. It is expected that such a system will help users work more efficiently with the application and better find the necessary products. An AB test was conducted to test the effectiveness of the recommendation system. First group included users with a new recommendation system, second group included users with an old version of the application, which does not recommend products.
 
@@ -29,6 +22,15 @@ The team has introduced a smart product recommendation system into the applicati
 
 ### Goal:
 Analytical conclusion whether to include a new recommendation system for all users.
+
+### Steps to achieve the goal:
+- Pre-analysis
+- Exploratory Data Analysis
+- A/B Testing Result Analysis
+- Selecting metrics
+- Hypothesis testing
+- Calculating statistical significance
+- Student's t-test, Welch's t-test, Chi-squared test
 
 ### Tasks:
 Select service quality metrics and statistically compare them in two groups.
