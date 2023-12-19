@@ -11,45 +11,22 @@
 
 <p align="right"><i>Project from the Data Analyst course by Karpov.Courses</i></p>
 
+### Info:
+E-commerce analysis. Analysis of customer behavior, delivery performance and online shopping trends.
+
+### Data:
+
+
+### Goal:
+Provide e-commerce analysis and analysis of customer behavior, delivery performance and online shopping trends.
+
+### Steps to achieve the goal:
 - Pre-analysis
 - Exploratory Data Analysis
 - Anomaly detection
 - Sales analysis
 - Cohort analysis
 - RFM analysis for Customer Segmentation
-
-### Info:
-E-commerce analysis. Analysis of customer behavior, delivery performance and online shopping trends.
-
-### Data:
-**Customer Data**
-- customer_id — customer ID
-- customer_unique_id — customer unique ID (analogue of passport number)
-- customer_zip_code_prefix — ZIP code prefix
-- customer_city — customer's delivery city
-- customer_state — customer's delivery state
-
-**Order Data**
-- order_id — unique order ID (receipt number)
-- customer_id — customer ID
-- order_status — order status
-- order_purchase_timestamp — order creation time
-- order_approved_at — time of order payment approval
-- order_delivered_carrier_date — transfer date of the order to the logistics service
-- order_delivered_customer_date — order delivery date
-- order_estimated_delivery_date — promised delivery date
-
-**Items included in orders**
-- order_id — unique order ID (receipt number)
-- order_item_id — item ID within one order
-- product_id — product ID (analogue of a barcode)
-- seller_id — seller ID
-- shipping_limit_date — shipping date limit for the seller
-- price — price
-- freight_value — freight value
-
-### Goal:
-Provide e-commerce analysis and analysis of customer behavior, delivery performance and online shopping trends.
 
 ### Tasks:
 - Determine how many customers made a purchase only once.
