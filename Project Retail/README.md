@@ -11,36 +11,19 @@
 
 <p></p>
 
-- Pre-analysis
-- Exploratory Data Analysis
-- ABC-analysis
-- XYZ-analysis
-- ABC/XYZ-analysis
-- Sales analysis
-
 ### Info:
 Retail sales analysis to identify trends and patterns.
 
 ### Data:
 This dataset contains information about customer transactions and product details.  
 
-BillNo — 6-digit number assigned to each transaction  
-Itemname — product name  
-Quantity — the quantities of each product per transaction  
-Date — the day and time when each transaction was generated  
-Price — product price  
-CustomerID — 5-digit number assigned to each customer  
-Country — name of the country where each customer resides  
-
 ### Goal:
 Provide retail analysis to make better decisions about product, pricing, promotions, inventory, customer needs other aspects of business.
 
-### Tasks:
-- ABC Customer Analysis
-- ABC Product Analysis
-- XYZ Customer Analysis
-- XYZ Product Analysis
-- ABC/XYZ Customer Analysis
-- ABC/XYZ Product Analysis
-- Sales dynamics by month
-- Sales dynamics by country
+### Steps to achieve the goal:
+- Pre-analysis
+- Exploratory Data Analysis
+- ABC-analysis
+- XYZ-analysis
+- ABC/XYZ-analysis
+- Sales analysis
