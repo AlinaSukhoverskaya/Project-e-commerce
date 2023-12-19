@@ -12,13 +12,6 @@
 </div>
 <p align="right"><i>Project from the Data Analyst course by Karpov.Courses</i></p>
 
-- Exploratory Data Analysis
-- A/B Testing Result Analysis
-- Selecting metrics
-- Hypothesis testing
-- Calculating statistical significance
-- Welch's t-test, Chi-squared test
-
 ### Info:
 The team has developed a new algorithm for finding the most suitable profiles. An AB test was conducted to verify the algorithm's operation. All users were divided into two groups: with an old algorithm application for searching profiles and with a new one.
 
@@ -27,6 +20,15 @@ Logs of user interaction with each other. For each pair of users, it is indicate
 
 ### Goal:
 Analytical conclusion whether to include a new algorithm for searching profiles for all users.
+
+### Steps to achieve the goal:
+- Pre-analysis 
+- Exploratory Data Analysis
+- A/B Testing Result Analysis
+- Selecting metrics
+- Hypothesis testing
+- Calculating statistical significance
+- Welch's t-test, Chi-squared test
 
 ### Tasks:
 Select service quality metrics and statistically compare them in two groups.
