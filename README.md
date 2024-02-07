@@ -30,6 +30,21 @@
 -	KPI
 -	Table
   ___
+
+### Dashboards News Feed 
+**Info:** configured basic dashboards that show key audience metrics and key events of news feed.
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Superset-logo.svg" height="40"/>
+  <img src="https://github.com/apache/superset/blob/master/superset-frontend/src/assets/images/clickhouse.png" height="40"/>
+</div>
+<p></p>
+
+-	Bar Chart
+-	Line Chart
+-	KPI
+-	Table
+-	Pie chart
+  ___
   
 ### Project Dating App
 
