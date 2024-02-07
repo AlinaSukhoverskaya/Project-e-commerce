@@ -43,12 +43,12 @@ Set up basic dashboards that show key audience metrics and key events of our pro
    - User activity by service
 
 ## News Feed Dashboard
-<div><image src="/Dashboard News Feed/News Feed Dashboard.jpg" alt="News Feed Dashboard"/></div>
+<div><image src="/Dashboards News Feed/News Feed Dashboard.jpg" alt="News Feed Dashboard"/></div>
 
 ## News Feed Real-Time Dashboard
-<div><image src="/Dashboard News Feed/News Feed Real-Time Dashboard.jpg" alt="News Feed Dashboard"/></div>
+<div><image src="/Dashboards News Feed/News Feed Real-Time Dashboard.jpg" alt="News Feed Dashboard"/></div>
 
 ## News Feed And Messenger Dashboard
-<div><image src="/Dashboard News Feed/News Feed And Messenger Dashboard.jpg" alt="News Feed Dashboard"/></div>
+<div><image src="/Dashboards News Feed/News Feed And Messenger Dashboard.jpg" alt="News Feed Dashboard"/></div>
 
 
