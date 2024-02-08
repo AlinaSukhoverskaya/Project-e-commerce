@@ -31,7 +31,7 @@ Create a Telegram bot that will send a message to the chat with a daily report a
    - Interquartile range
    - 3-sigma rule
 
-If an anomaly is detected, provide:
+The decision on the presence of an anomaly is made based on the principle of majority vote. If an anomaly is detected, provide:
    - Metric with an anomalous value
    - Current value
    - Difference with the previous value
