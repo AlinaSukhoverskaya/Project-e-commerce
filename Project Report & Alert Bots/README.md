@@ -26,7 +26,7 @@ Create a Telegram bot that will send a message to the chat with a daily report a
 
 #### 2. Alerts  
    Implement sending an alert when anomalies are detected.
-   To search for anomalies, use the following methods:
+   Use the following methods to detect anomalies:
    - Compare the value with the value on the previous day at the same time
    - Interquartile range
    - 3-sigma rule
