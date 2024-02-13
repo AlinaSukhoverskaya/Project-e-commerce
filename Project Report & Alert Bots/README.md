@@ -12,6 +12,13 @@
 
 <p></p>
 
+### Data:
+This dataset contains information about users and their interactions with the news feed and messenger.
+
+### Goal:
+Create a Telegram bot that will send a message to the chat with a daily report and alerts when anomalies are detected.
+
+### Steps to achieve the goal:
 - Сreating a Telegram bot
 - Reporting automation
 - Metrics Analysis
@@ -19,12 +26,6 @@
   - Comparing the value with the value on the previous day at the same time
   - Interquartile range
   - 3-sigma rule
-
-### Data:
-This dataset contains information about users and their interactions with the news feed and messenger.
-
-### Goal:
-Create a Telegram bot that will send a message to the chat with a daily report and alerts when anomalies are detected.
 
 ### Tasks:
 #### 1. Reports  
