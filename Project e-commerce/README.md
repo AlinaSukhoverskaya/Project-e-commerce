@@ -15,7 +15,7 @@
 E-commerce analysis. Analysis of customer behavior, delivery performance and online shopping trends.
 
 ### Data:
-
+Data set which contains all the transactions for a registered non-store online retail. The dataset contains information about users, order statuses, and order contents.
 
 ### Goal:
 Provide e-commerce analysis and analysis of customer behavior, delivery performance and online shopping trends.
