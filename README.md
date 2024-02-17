@@ -3,7 +3,7 @@
 ### Dashboard Analyst Vacancies
 **Info:** analysis of analyst vacancies on hh.ru.
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/ru/0/06/Tableau_logo.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/ru/0/06/Tableau_logo.svg" title="Tableau" alt="Tableau" height="40"/>
 </div>
 <p></p>
 
@@ -18,7 +18,7 @@
 ### Dashboard Bonus Distribution & Performance Overview
 **Info:** implemented effective distribution of bonuses among employees to forecast the budget for the next year.
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/ru/0/06/Tableau_logo.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/ru/0/06/Tableau_logo.svg" title="Tableau" alt="Tableau" height="40"/>
 </div>
 <p></p>
 
@@ -34,8 +34,8 @@
 ### Dashboards News Feed 
 **Info:** configured basic dashboards that show key audience metrics and key events of news feed.
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Superset-logo.svg" height="40"/>
-  <img src="https://github.com/apache/superset/blob/master/superset-frontend/src/assets/images/clickhouse.png" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Superset-logo.svg" title="Superset" alt="Superset" height="40"/>
+  <img src="https://github.com/apache/superset/blob/master/superset-frontend/src/assets/images/clickhouse.png" title="ClickHouse" alt="ClickHouse" height="40"/>
 </div>
 <p></p>
 
