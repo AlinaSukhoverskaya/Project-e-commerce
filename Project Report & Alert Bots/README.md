@@ -12,6 +12,9 @@
 
 <p></p>
 
+### Info:
+Automation of news feed and messenger reporting and creating a Telegram bot.
+
 ### Data:
 This dataset contains information about users and their interactions with the news feed and messenger.
 
