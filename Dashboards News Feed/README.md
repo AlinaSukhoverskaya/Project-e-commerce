@@ -37,7 +37,7 @@ Set up basic dashboards that show key audience metrics and key events of our pro
    - Today most active users
   
 #### 3. News Feed And Messenger Dashboard    
-   Describe the interaction of two services - feed and messages:
+   Describe the interaction of two services - news feed and messenger:
    - What active audience the application has by day, i.e. users who use both the news feed and the messenger
    - How many users use only the news feed and do not use messages and vice versa
    - User activity by service
