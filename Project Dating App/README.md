@@ -34,6 +34,15 @@ Analytical conclusion whether to include a new algorithm for searching profiles 
 ### Tasks:
 Select service quality metrics and statistically compare them in two groups.
 
+### Results:
+All statistical tests showed statistically significant increases in metrics:
+- Love Rate
+- Match Frequency
+- View Frequency
+- Like Dislike Rate
+
+The new algorithm for searching profiles has benefited the application and its users.
+
 
 
 
