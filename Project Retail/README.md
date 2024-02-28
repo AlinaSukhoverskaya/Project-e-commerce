@@ -32,7 +32,7 @@ Provide retail analysis to make better decisions about product, pricing, promoti
 #### 1. ABC-analysis
 The analysis showed that:
 - 27% of users brought 80% of revenue
-- 21% of products generated 80% of revenue.  
+- 21% of products generated 80% of revenue  
 
 These results are in good agreement with the Pareto principle.
 
