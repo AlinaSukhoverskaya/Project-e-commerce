@@ -56,7 +56,7 @@ The decision on the presence of an anomaly is made based on the principle of maj
 
 Check every 15 minutes.
 
-### Result:
+### Results:
 #### 1. Reports
 Screenshot of the message:
 <p align="center">
