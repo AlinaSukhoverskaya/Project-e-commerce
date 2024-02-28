@@ -41,7 +41,7 @@ All statistical tests showed statistically significant increases in metrics:
 - View Frequency
 - Like Dislike Rate
 
-The new algorithm for searching profiles has benefited the application and its users.
+**Conclusion:** The new algorithm for searching profiles has benefited the application and its users.
 
 
 
