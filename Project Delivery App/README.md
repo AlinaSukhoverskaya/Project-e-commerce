@@ -38,13 +38,13 @@ Select service quality metrics and statistically compare them in two groups.
 ### Results:
 Statistical tests were performed for the following metrics:
 - Cancellation Rate
-- AOV
-- AOS
-- ARPU
-- PF
-- RPR
+- Average Order Value
+- Average Order Size
+- Average Revenue per User
+- Purchase Frequency
+- Repeat Purchase Rate
 
-It turned out that Cancellation Rate, AOV, AOS did not change significantly. However, at the same time, ARPU, PF, and RPR increased statistically significantly. That is, users began to buy more often (make more orders), make repeat purchases more often, and bring more income to the business. Thus, with the introduction of the recommendation system, the business began to generate more income, and users began to better satisfy their needs.  
+It turned out that Cancellation Rate, AOV, AOS did not change significantly. However, at the same time, ARPU, PF, and RPR increased statistically significantly. That is, users began to make more orders, make repeat purchases more often, and bring more income to the business. Thus, with the introduction of the recommendation system, the business began to generate more income, and users began to better satisfy their needs.  
 **Conclusion:** the new recommendation system was able to benefit the business and app users.
 
 
