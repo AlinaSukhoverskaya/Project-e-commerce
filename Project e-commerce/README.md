@@ -36,5 +36,18 @@ Provide e-commerce analysis and analysis of customer behavior, delivery performa
 - Cohort analysis of users.
 - RFM analysis for customer segmentation.
 
-
+### Results:
+- Most of the users made only 1 purchase.
+- On average, 124 orders are not delivered per month for various reasons. Most orders that have not been delivered to the user have the following statuses:
+  - shipped
+  - canceled
+  - unavailable
+  - invoice
+  - processing
+- Most often goods are purchased on Monday, and least often on weekends.
+- Cohort analysis showed that in the second month, there is a sharp drop in retention, almost no one makes any purchases in the second month (which is not surprising, since most users did not make more than one purchase).
+- RFM-analysis showed that TOP 3 segments are:
+  - Dormant one-time / rare users: there are many of them, and they have brought a lot of income, there is still a chance that they will make a purchase, they need to be stirred up and motivated, you can send them a newsletter with promotions.
+  - Beginners. We need to maintain their interest. You can send a newsletter describing the benefits of the service and answers to frequently asked questions.
+  - One-time users are most likely users who have already left, it is not worth wasting resources on them.
 
